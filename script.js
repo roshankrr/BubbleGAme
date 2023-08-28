@@ -43,7 +43,7 @@ var cl=value.addEventListener("click",function(dets){
         HitC();
     }
     else{
-        alert("your time is up Buddy");
+        alert("Something went wrong!");
     }
 })
 
