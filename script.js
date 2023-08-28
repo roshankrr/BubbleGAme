@@ -43,7 +43,8 @@ var cl=value.addEventListener("click",function(dets){
         HitC();
     }
     else{
-        alert("Something Went Wrong!");
+        alert("Something went wrong!");
+
     }
 })
 
