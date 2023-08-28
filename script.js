@@ -44,6 +44,7 @@ var cl=value.addEventListener("click",function(dets){
     }
     else{
         alert("Something went wrong!");
+
     }
 })
 
